@@ -1,2 +1,33 @@
-Hello sir kaise ho
-my name is neeraj hii sir fetch
+Spring Core Concepts
+Dependency Injection (DI)
+Inversion of Control (IoC)
+Spring Beans & Lifecycle
+Configuration (XML, Annotation, Java-based)
+Boot Basics
+What is Spring Boot?
+Project Structure
+Starter Dependencies
+Spring Initializr
+application.properties
+ API with Spring Boot
+@RestController, @RequestMapping, @GetMapping, @PostMapping, etc.
+Path Variables & Request Params
+RequestBody & ResponseEntity
+HTTP Methods: GET, POST, PUT, DELETE
+Exception Handling in REST API
+Database Integration
+JDBC Template (basic)
+Spring Data JPA
+Entity Classes, Repositories
+CRUD Operations
+MySQL Database Integration
+Custom Queries
+Validation & Error Handling
+Bean Validation (@Valid, @NotNull, etc.)
+Exception Handlers (@ControllerAdvice)
+Security (Basic)
+Spring Security Basics
+Authentication & Authorization
+JWT Token (advanced)
+ThunderClient / Postman
+API Testing & Documentation
