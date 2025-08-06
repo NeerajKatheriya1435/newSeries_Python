@@ -9,7 +9,6 @@ class Car:
     @property
     def getName(self):
         return self.name
-    
     @getName.setter
     def setName(self,name1):
         self.name=name1
